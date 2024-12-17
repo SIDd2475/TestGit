@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:restMockService xmlns:con="http://eviware.com/soapui/config" port="8086" path="/" host="localhost" name="Virtual REST Service" routeModeEnabled="false" id="177096cb-bff2-40dd-b0e6-d04754e88bb6">
-  <con:settings id="dc5cc414-f94c-4244-9641-c97121a36ff6">
+<con:restMockService xmlns:con="http://eviware.com/soapui/config" host="localhost" id="177096cb-bff2-40dd-b0e6-d04754e88bb6" name="Virtual REST Service" path="/" port="8086" routeModeEnabled="false">
+  <con:settings id="8640258c-90f6-4123-9889-0cf97745d22a">
     <con:setting id="2a6dfe00-ebf7-44f2-8b96-64c69a5b5ed4fileName">RESTMockService</con:setting>
     <con:setting id="177096cb-bff2-40dd-b0e6-d04754e88bb6fileName">Virtual-REST-Service</con:setting>
   </con:settings>

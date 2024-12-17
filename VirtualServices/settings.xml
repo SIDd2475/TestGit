@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:testSuite xmlns:con="http://eviware.com/soapui/config" id="7362dd4a-4646-4f1d-be75-f837f650b07b" name="VirtualServices">
-  <con:settings id="80b0fa72-386e-4fb4-9a64-af954a37bb72">
+  <con:settings id="3d50e250-592c-439c-8ae9-43511c44db54">
     <con:setting id="7362dd4a-4646-4f1d-be75-f837f650b07bfileName">VirtualServices</con:setting>
   </con:settings>
   <con:savedRecentRuns>1</con:savedRecentRuns>
